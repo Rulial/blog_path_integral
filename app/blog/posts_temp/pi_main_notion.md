@@ -1,4 +1,14 @@
-# PATH INTEGRAL Copy
+
+___
+
+title: 'Spaces vs. Tabs: The Indentation Debate Continues'
+publishedAt: '2024-04-08'
+summary: 'Explore the enduring debate between using spaces and tabs for code indentation, and why this choice matters more than you might think.'
+---
+
+[
+    
+](../app/blog)# PATH INTEGRAL Copy
 
 In a universe of infinite possibilities everything that can happen does happen
 
